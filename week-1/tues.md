@@ -1,4 +1,4 @@
-![ga](http://mobbook.generalassemb.ly/ga_cog.png)
+![](http://mobbook.generalassemb.ly/ga_cog.png)
 
 # WDIR-Gizmo
 
