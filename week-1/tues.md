@@ -1,12 +1,12 @@
-![](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# WDIR+TX
+
+# WDIplus-ATX
 
 ---
 Title: Shortcuts & Setting You Up for Success <br>
 Type: Morning Exercise<br>
 Duration: "0:45"<br>
-Creator:Kristyn Bryan<br>
+Creator:Alex White<br>
 Course: WDIR+TX<br>
 Competencies: Spectacle, Atom shortcuts, Command Line & Keyboard shortcuts <br>
 Prerequisites: None<br>
