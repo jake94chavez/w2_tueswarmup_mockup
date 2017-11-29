@@ -7,7 +7,7 @@ Title: Shortcuts & Setting You Up for Success <br>
 Type: Morning Exercise<br>
 Duration: "0:45"<br>
 Creator:Kristyn Bryan<br>
-Course: WDIR-Plus-TX<br>
+Course: WDIR+TX<br>
 Competencies: Spectacle, Atom shortcuts, Command Line & Keyboard shortcuts <br>
 Prerequisites: None<br>
 
