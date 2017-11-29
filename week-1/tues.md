@@ -55,7 +55,7 @@ Prerequisites: None<br>
 - Open your terminal and let's try out a few of these.
     
 #### Command Line Shortcuts
-![Command Line Shortcuts](http://i.imgur.com/Omz33nF.png)
+![Command Line Shortcuts](https://i.imgur.com/Omz33nF.png)
     
 - Are you running the same command over and over again? Use the **up arrow** to show your previous commands. Hit **enter** to run them.
 
