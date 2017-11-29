@@ -1,6 +1,6 @@
 ![](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# WDIR-Gizmo
+# WDIR+TX
 
 ---
 Title: Shortcuts & Setting You Up for Success <br>
