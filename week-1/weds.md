@@ -8,7 +8,7 @@ Type: Morning Exercise<br>
 Duration: "0:45"<br>
 Modified by: Kristyn Bryan<br>
 Creator: Karolin Rafalski<br>
-    Course: WDIR-Hopper <br>
+Course: WDI+TX <br>
 Competencies: git/github, terminal, html fundamentals <br>
 Prerequisites: [Introduction to HTML](https://www.youtube.com/watch?v=DxhXFpsN5I4&index=1&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)<br>
 
@@ -19,7 +19,7 @@ Prerequisites: [Introduction to HTML](https://www.youtube.com/watch?v=DxhXFpsN5I
 
 Push your work and pull the most up-to-date information from our class repo.
 
-1) Navigate to your `wdi-remote-gizmo` folder.
+1) Navigate to your `wdi-plus-tx` folder.
 2) Run the command `git status`
 
 <hr>
