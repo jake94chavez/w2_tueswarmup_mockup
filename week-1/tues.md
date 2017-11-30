@@ -70,6 +70,9 @@ Prerequisites: None<br>
 #### More Mac Shortcuts
 https://support.apple.com/en-us/HT201236
 
+#### Keyboard Shortcut Practice FTW!
+https://www.shortcutfoo.com/app/dojos
+
 ## Part 4 - Atom
 - Open Atom so that we can practice these
 (open atom by clicking on the icon in your dock OR by opening your search `command + space` and typing `atom`).
