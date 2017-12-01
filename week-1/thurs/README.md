@@ -57,7 +57,7 @@ Using the command `open index.html` inside the terminal when you are inside the 
 ## The Resources
 1. URL for image: http://blog.taxact.com/wp-content/uploads/Complete-Guide-to-Employee-Stock-Options-and-Tax-Reporting-Forms.jpg
 
-1. For text to fill the paragraphs, use [a Lorem Ipsum generator](http://www.lipsum.com/) (this is just one of many that you can use).
+1. For text to fill the paragraphs, use [a Lorem Ipsum generator](http://skateipsum.com/) (this is just my favorite of many that you can use, including Bacon Ipsum and Hipster Ipsum).
 
 1. The links that you create do not have to go anywhere, but you should be able to click on them.
 
