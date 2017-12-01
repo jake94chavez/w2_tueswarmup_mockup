@@ -40,20 +40,10 @@ Let's use some CSS to improve our website for Grumpy Cat.
 - Using what you learned about CSS, style the HTML lab so it looks like the mockup.
 
 ## Getting Started
-1) You already created the HTML for this mockup yesterday. You should have created it in your `w01d04/morning_exercise` folder. We called it `index.html`. 
-
-2. Let's copy your work into your `student_examples` folder for today. 
-
-- In terminal:
- - navigate to your `/w01d05/student_examples` folder
- - create a new file called `morning_mockup`
- - navigate inside `morning_mockup`
- - from there type `cp ../../../w01d04/morning_exercise/mockup_practice/*.html .` NOTE: if you created more files than this (like a CSS file), you will also need to copy those files.
- - This command will copy all `html` files from yesterday's folder into today's `student_exercise` folder
-
- Note: if you have created your files elsewhere, you will need to adjust the path.
+1) You already created the HTML for this mockup yesterday. You should have created it in your `w01d04/morning_exercise` folder. We called it `index.html`. You will start there. 
 
 ## Stretch:
 
 1. Create/style the About page mentioned in the Stretch section of the HTML lab.
 2. Fix the margins, font, layout, etc. to make this site look more modern and professional!
+3. Get creative! Make this the most beautiful grumpy cat site the world has ever seen! I'm sure he will still hate it, but everyone else will love it!
