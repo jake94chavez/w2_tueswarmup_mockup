@@ -47,8 +47,9 @@ Using the command `open index.html` inside the terminal when you are inside the 
 1. Get used to committing your work!
 
 >:elephant: Reminder:<br>
-  - `git add .` to add the file
-  - `git commit -m"add a message"` to make a commit
+  - `git init` make your current directory a git repo
+  - `git add .` to add all of the files in your current directory
+  - `git commit -m "add a message"` to make a commit
 
 ## The Mockup
 ![Mockup](https://i.imgur.com/XLnBkER.png)
