@@ -22,7 +22,7 @@ Prerequisites: Basic HTML <br>
 
 Let's use some common HTML tags to create a website for Grumpy Cat.
 
-1) Inside your `morning_exercise` folder, let's create a file for this cat site. What should we name the file?
+1) Inside your `morning_exercise` folder (create one in your dev folder, if you don't have one already), let's create a file for this cat site. What should we name the file?
 2) How do I make add the boilerplate needed for an HTML file?
 3) How do I add a title to my file so that you can see the name on the browser tab?
 4) How do I make a heading?
