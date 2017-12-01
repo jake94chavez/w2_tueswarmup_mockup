@@ -56,4 +56,4 @@ Let's use some CSS to improve our website for Grumpy Cat.
 ## Stretch:
 
 1. Create/style the About page mentioned in the Stretch section of the HTML lab.
-2. Fix the margins, font, layout, etc. to make this site look more professional!
+2. Fix the margins, font, layout, etc. to make this site look more modern and professional!
