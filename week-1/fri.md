@@ -1,13 +1,13 @@
 ![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# WDIR-Gizmo
+# WDIplus-ATX
 
 ---
 Title: CSS Mockup <br>
 Type: Morning Exercise<br>
 Duration: "0:45"<br>
-Creator: Matt Huntington<br>
-    Modified by: Kristyn Bryan <br>
+Creator: WDIplus-ATX<br>
+    Modified by: Alex White <br>
 Competencies: CSS <br>
 Prerequisite Videos: <br>
 [Introduction to CSS](https://www.youtube.com/watch?v=xWiT2TWCFjc&index=3&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)<br>
