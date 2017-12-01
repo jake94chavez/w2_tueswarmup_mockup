@@ -1,6 +1,5 @@
-![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# WDIR-Gizmo
+# WDIplus-ATX
 
 ---
 Title: Practice Practice Practice: Typing.io and Shortcut Foo <br>
