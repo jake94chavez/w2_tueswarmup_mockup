@@ -44,12 +44,11 @@ Using the command `open index.html` inside the terminal when you are inside the 
 
 ## Commit Your Work
 
-1. Get used to committing your work! After you create a tag, push the work.
+1. Get used to committing your work!
 
 >:elephant: Reminder:<br>
   - `git add .` to add the file
   - `git commit -m"add a message"` to make a commit
-  - `git push origin master` to push it the work to your branch of the class github repo
 
 ## The Mockup
 ![Mockup](https://i.imgur.com/XLnBkER.png)
