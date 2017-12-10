@@ -39,7 +39,7 @@ Your folder structure will look like:
 ![Mockup](mockup.jpg)
 
 ## The Resources
-1. You are being provided with 5 pictures (located in the imgs folder inside this `tuesday` folder.
+1. You are being provided with 5 pictures located in the [img](https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-2/tuesday/img) folder inside this `tuesday` folder.
 1. For the "GET IN TOUCH" section, don't worry about creating form elements for name, email, subject, message, send.  Just use standard elements that we've learned about (maybe divs?) and then style them appropriately.
 
 ## Stretch:
