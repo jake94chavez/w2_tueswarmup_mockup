@@ -23,7 +23,7 @@ Look at the mockup below and create a webpage **with this layout** using HTML an
 - Get your HTML elements on the page.
 - Think about which semantic tags you can use (`section`, `main`, `header`, `footer`, `paragraph`, which heading tags should you use?).
 
-<!--NOTE: This is a 2-day exercise.-->
+<!--NOTE: This is a 2-day exercise.
 
 ## Setup
 1. Navigate to your `student_examples` folder for today (`w02d03`).
@@ -32,14 +32,14 @@ Look at the mockup below and create a webpage **with this layout** using HTML an
 
 Your folder structure will look like:
 `unit_01/w02d03/student_examples/morning_mockup/index.html`
-
+-->
 **IMPORTANT** As you code, make sure to check your work in the browser.
 
 ## Mockup (for the structure)
 ![Mockup](mockup.jpg)
 
 ## The Resources
-1. You are being provided with 5 pictures (located in the images folder inside this `morning_exercise` folder.
+1. You are being provided with 5 pictures (located in the imgs folder inside this `tuesday` folder.
 1. For the "GET IN TOUCH" section, don't worry about creating form elements for name, email, subject, message, send.  Just use standard elements that we've learned about (maybe divs?) and then style them appropriately.
 
 ## Stretch:
