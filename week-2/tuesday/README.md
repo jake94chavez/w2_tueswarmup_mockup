@@ -7,8 +7,8 @@ Title: HTML Mockup <br>
 Type: Morning Exercise<br>
 Duration: "0:45"<br>
 Instructor:Alex White<br>
-Modified from Lab Created by: GA Instructional Team
-    Course: WDIplus-ATX<br>
+Modified from Lab Created by: GA Instructional Team<br>
+Course: WDIplus-ATX<br>
 Competencies: HTML <br>
 Prerequisites: Basic HTML <br>
 
