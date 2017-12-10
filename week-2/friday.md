@@ -1,15 +1,14 @@
-![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# WDIR-Gizmo
+# WDIplus-ATX
 
 ---
 Title: Responsive Mockup<br>
 Type: Morning Exercise <br>
 Duration: "0:45"<br>
 Creator:<br>
-    Original creators: Matt Huntington<br>
+    GA Instructional Team<br>
     Adapted by: Kristyn Bryan<br>
-    Course: WDIR-Hopper<br>
+    Course: WDIplus-ATX<br>
 Competencies: HTML, CSS, Responsive design <br>
 Prerequisite Videos:
 #### Advanced Selectors
