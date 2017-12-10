@@ -1,14 +1,14 @@
 ![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# WDIR-Gizmo
+# WDIplus-ATX
 
 ---
 Title: HTML Mockup <br>
 Type: Morning Exercise<br>
 Duration: "0:45"<br>
-Instructor:Kristyn Bryan<br>
-Modified from Lab Created by: Matt Huntington
-    Course: WDIR-Hopper<br>
+Instructor:Alex White<br>
+Modified from Lab Created by: GA Instructional Team
+    Course: WDIplus-ATX<br>
 Competencies: HTML <br>
 Prerequisites: Basic HTML <br>
 
