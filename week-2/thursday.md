@@ -50,7 +50,7 @@ Prerequisite Videos: <br>
 
 
 ## Use this Mockup
- ![Mockup](../tuesday/mockup.jpg)
+ ![Mockup](https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/tuesday/mockup.jpg)
  
 
 ## Stretch:
