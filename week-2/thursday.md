@@ -50,7 +50,7 @@ Prerequisite Videos: <br>
 
 
 ## Use this Mockup
- ![Mockup](mockup.jpg)
+ ![Mockup](../tuesday/mockup.jpg)
  
 
 ## Stretch:
