@@ -23,7 +23,13 @@ Look at the mockup below and create a webpage **with this layout** using HTML an
 - Get your HTML elements on the page.
 - Think about which semantic tags you can use (`section`, `main`, `header`, `footer`, `paragraph`, which heading tags should you use?).
 
+## Setup
+1. Create your HTML/CSS..etc documents in folder that is organized where you keep your morning exercises.
+2. You can clone down this repo to get access to the img folder with images for this assignment as well.
+
 <!--NOTE: This is a 2-day exercise.
+
+**Note** This section is commented out for now until we refine the curriculum some more
 
 ## Setup
 1. Navigate to your `student_examples` folder for today (`w02d03`).
