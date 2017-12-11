@@ -30,14 +30,20 @@ For example, if we have had a challenge to find all of the prime numbers under s
 
 
 ## The Challenges
-1. Write an algorith that reverses a string. <br>
-Example: <br>
-`"spoons"`<br>
-`// "snoops"`
-
-	Bonus: Write another algorithm that uses the algorithm you just wrote to check if a string is a [palindrome](http://lmgtfy.com/?q=palindrome+meaning)
 1. Write an algorithm that takes an **array of integers** and returns the value of the most frequent integer. <br>
 Example: <br>
 `[3, 78, 111, 404, 111, 98, 3, 111]`<br>
 `// 111`
 
+1. Write an algorithm that translates English into [Piglatin](https://en.wikipedia.org/wiki/Pig_Latin#Rules). <br>
+Example: <br>
+`"translateToPigLatin(pudding)"`<br>
+`// uddingpay
+  - First make it work with words that start with a single consonant
+  - Then make it work for words that start with vowels
+
+Bonus: Make it work with double (or more) consonants at the start of the word
+  
+ Example: <br>
+`"translateToPigLatin(clicker)"`<br>
+`// ickerclay
