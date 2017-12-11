@@ -24,7 +24,9 @@ Competencies: Problem Solving, Pseudo Code <br>
 
 :coffee: **Edge Case** definition: 
 
-An edge case is a problem or situation that occurs only at an extreme (maximum or minimum) operating parameter. For example, a stereo speaker might noticeably distort audio when played at its maximum rated volume, even in the absence of other extreme settings or conditions. An edge case can be expected or unexpected.
+An edge case is a problem or situation that occurs only at an extreme (maximum or minimum) operating parameter. For example, a stereo speaker might noticeably distort audio when played at its maximum rated volume, even in the absence of other extreme settings or conditions. An edge case can be expected or unexpected. *-Wikipedia*
+
+For example, if we have had a challenge to find all of the prime numbers under some number *n*, the edge cases would be when *n* is 0, negative, when there are no prime's under *n*, etc. 
 
 
 ## The Challenges
