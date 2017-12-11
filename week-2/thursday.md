@@ -31,11 +31,13 @@ For example, if we have had a challenge to find all of the prime numbers under s
 
 ## The Challenges
 1. Write an algorith that reverses a string. 
-Example: `"spoons"`
+Example: <br>
+`"spoons"`<br>
 `// snoops`
 
 	Bonus: Write another algorithm that uses the algorithm you just wrote to check if a string is a [palindrome](http://lmgtfy.com/?q=palindrome+meaning)
 1. Write an algorithm that takes an **array of integers** and returns the value of the most frequent integer. 
-Example: `[3, 78, 111, 404, 111, 98, 3, 111]`
+Example: <br>
+`[3, 78, 111, 404, 111, 98, 3, 111]`<br>
 `// 111`
 
