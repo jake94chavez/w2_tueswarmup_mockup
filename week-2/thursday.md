@@ -33,7 +33,7 @@ For example, if we have had a challenge to find all of the prime numbers under s
 1. Write an algorith that reverses a string. <br>
 Example: <br>
 `"spoons"`<br>
-`// snoops`
+`// "snoops"`
 
 	Bonus: Write another algorithm that uses the algorithm you just wrote to check if a string is a [palindrome](http://lmgtfy.com/?q=palindrome+meaning)
 1. Write an algorithm that takes an **array of integers** and returns the value of the most frequent integer. <br>
